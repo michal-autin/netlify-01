@@ -54,7 +54,7 @@ params:
 permalinks:
   posts: /:year/:month/:title/
 title: Mike without a duck!
-theme: Toha
+theme: toha
 # Allow raw html in markdown file
 markup:
   goldmark:
