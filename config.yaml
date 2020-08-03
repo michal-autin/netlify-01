@@ -1,0 +1,20 @@
+baseURL: https://yoursite.example.com/
+footnoteReturnLinkContents: ↩
+params:
+  AuthorName: Mike
+  Author:
+    Nickname: Mike
+    Summary:
+      - Mike without a duck.
+      - passionate developer
+      - always learning
+  GitHubUser: spf13
+  ListOfFoo:
+    - foo1
+    - foo2
+  SidebarRecentLimit: 5
+  Subtitle: Hugo is Absurdly Fast!
+permalinks:
+  posts: /:year/:month/:title/
+title: Mike without a duck!
+theme: toha
